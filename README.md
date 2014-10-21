@@ -33,3 +33,5 @@ Example:
 1. Joni blagoo <a href="https://github.com/squest/zenx-integrated-learning">Repo</a>
 2. UBX  <a href="https://www.youtube.com/watch?v=BL3PjHRPmO4"target="_blank">Repo</a>
 3. IFA <a href="https://www.youtube.com/watch?v=UwTnfCeCYGY" target="_blank">Repo</a>
+
+  Follow this account <a href="https://twitter.com/yazid_ivan" target="_blank">@yazid_ivan</a>
